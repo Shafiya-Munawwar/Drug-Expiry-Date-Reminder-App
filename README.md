@@ -19,7 +19,5 @@ The Drug Expiry Date Reminder App is designed to help users keep track of their 
 - JavaScript
 
 ## Installation
-1. Clone the repository:
     ```bash
-   git clone https://github.com/ShafiyaMunawwar/drug-expiry-date-reminder-app.git
-
+   https://shafiya-munawwar.github.io/Drug-Expiry-Date-Reminder-App/
