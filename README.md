@@ -20,4 +20,4 @@ The Drug Expiry Date Reminder App is designed to help users keep track of their 
 
 ## Installation
     ```bash
-   [https://shafiya-munawwar.github.io/Drug-Expiry-Date-Reminder-App/](https://shafiya-munawwar.github.io/Drug-Expiry-Date-Reminder-App/)
+   [https://shafiya-munawwar.github.io/Drug-Expiry-Date-Reminder-App/]
