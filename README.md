@@ -1,5 +1,4 @@
 # Drug Expiry Date Reminder App
-A mobile-friendly application to remind users about drug expiry dates with admin login, notifications, and data persistence.
 
 ## Overview
 The Drug Expiry Date Reminder App is designed to help users keep track of their medications and other inventory items, ensuring they are notified when items are close to their expiry dates. The app features an admin login, notifications, data persistence, and a user-friendly interface with a medical-themed design.
